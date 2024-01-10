@@ -1,32 +1,34 @@
-# Privacy Policy for Task Tomato
+# Privacy Policy for Kārlis Bērziņš Apps
 
-**Last Updated**: 12.09.2023
+**Last Updated**: 10.01.2024
 
-At Task Tomato, we value and respect the privacy of our users. This Privacy Policy explains the types of information we collect, how we use it, and the steps we take to protect it.
+At Kārlis Bērziņš Apps, we prioritize the privacy and security of our users across all our mobile applications ("Our Apps"). This Privacy Policy outlines the types of information we collect, how it is used, and the measures we take to protect it.
 
 ## Information We Collect
 
-Given the nature of Task Tomato, we collect minimal personal data:
+In the use of Our Apps, we collect minimal personal data to enhance user experience:
 
-1. **User Preferences**: These are settings and configurations specific to how you use Task Tomato, such as your selected timer durations. These are stored locally on your device and are not transmitted or stored outside of it.
-2. **Subscription Data**: If you choose to subscribe to our premium features, we use RevenueCat to manage your subscription. We do not directly handle or store your payment details.
+1. **User Preferences**: Settings and configurations specific to your usage of Our Apps. These are stored locally on your device and are not transmitted or stored externally.
+2. **Subscription Data**: For users subscribing to premium features in any of Our Apps, we process subscription details. We do not directly handle or store your payment details.
+3. **Local Database Storage**: Some of Our Apps use a local database to store data. This data is stored exclusively on your device and is not transmitted or stored outside of it.
 
 ## How We Use Your Data
 
-1. **User Preferences**: To enhance your personal user experience within our app. For instance, by recalling your last-used timer settings.
-2. **Subscription Data**: To verify your subscription status and grant access to premium features.
+1. **User Preferences**: To provide a personalized experience within Our Apps.
+2. **Subscription Data**: To verify subscription status and grant access to premium features.
+3. **Local Database Storage**: To provide functionality within Our Apps, such as saving progress or user settings.
 
 ## Third-Party Services
 
-The only third-party service integrated into Task Tomato is RevenueCat for subscription management. Their privacy practices dictate how they handle and protect your data. We recommend reviewing their privacy policy for more information.
+Our Apps may integrate with third-party services for functionalities like subscription management. The privacy practices of these third parties govern the handling and protection of your data. We encourage reviewing their privacy policies for more information.
 
 ## Data Security
 
-While we collect minimal personal data, we are committed to ensuring its security. All local data stored by Task Tomato, such as user preferences, remain only on your device. For subscription data, we rely on RevenueCat's secure infrastructure.
+We commit to the security of your data. All local data stored by Our Apps, such as user preferences, local databases, remains only on your device. For any data related to subscriptions, we rely on the secure infrastructure of third-party services.
 
 ## Changes to This Privacy Policy
 
-From time to time, we may update our Privacy Policy. We advise you to review this page periodically for any changes. Any modifications to this Privacy Policy will be effective as of the 'Last Updated' date at the top of this page.
+We may update our Privacy Policy from time to time. We advise users to review this page periodically for any changes. Modifications will be effective as of the ‘Last Updated’ date at the top.
 
 ## Contact Us
 
